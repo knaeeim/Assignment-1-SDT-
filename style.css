@@ -1,0 +1,28 @@
+.icon {
+    margin: 0 15px; /* Adjusts spacing */
+}
+.main-div-of-card{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.banner-section {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 20px; /* Additional padding around the section */
+}
+
+.carousel-inner img {
+    max-height: 400px; /* Set a max height for the images to keep them uniform */
+    object-fit: cover; /* Ensures images cover the area without distortion */
+}
+
+.main-div-of-card {
+    border-radius: 10px; /* Rounded corners for the card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+}
+
+h5 {
+    word-wrap: break-word;
+    word-break: break-word;
+    white-space: normal; 
+}
